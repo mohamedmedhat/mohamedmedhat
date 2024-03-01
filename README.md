@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center" >
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=F7CD2A&center=true&vCenter=true&random=false&width=435&height=30&lines=%D9%8BWho+i+am+%3F;Software+engineer+interesting+in+backend+services;Check+my+repositories+and+enjoy++%3A)" alt="Typing SVG" /></a>
+</div>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmedhat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mohamedmedhat&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
