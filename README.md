@@ -3,7 +3,7 @@
 ###
 
 <div align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&height=30&lines=%D9%8BWho+i+am+%3F;Mohamed+Medhat+Elnggar;Software+engineer+interesting+in+backend+services;Expressjs++%26%26+Nestjs;Check+my+repositories+and+enjoy++%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Afacad+Flux&weight=600&size=22&pause=1000&color=F7C31E&center=true&width=435&lines=Mohamed+Medhat+Elnggar;Software+developer+interesting+in+backend+services;Springboot+wiht+Java+or+Kotlin;Nestjs+for+real-time+applications;check+my+code+and+enjoy+%3A)" alt="Typing SVG" /></a>
 </div>
 
 ###
@@ -42,6 +42,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
