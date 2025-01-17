@@ -78,21 +78,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
-
-###
-
-<img align="left" height="150" src="https://media4.giphy.com/media/sYCHUnrEUVBRnmCIy8/giphy.gif?cid=ecf05e47mzt1sfskgd0s4ccz3924jjn2yyrluovn8rmi3e5x&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="center">
-  <img height="200" src="https://jtf.org/wp-content/uploads/2017/01/burning-israeli-flag.jpg"  />
-</div>
-
-###
-
-
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
