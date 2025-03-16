@@ -1,4 +1,6 @@
-<h4 align="center">السَلامُ عَليكُم وَرحمَةُ اللّهِ وبَركاتٌه<br>I'm Mohamed Medhat... software engineer heavily in .. backend development..</h4>
+<h4 align="center">السَلامُ عَليكُم وَرحمَةُ اللّهِ وبَركاتٌه
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+  <br>I'm Mohamed Medhat... software engineer heavily in .. backend development..</h4>
 
 ###
 
@@ -77,6 +79,12 @@
 </div>
 
 ###
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mohamedmedhat&theme=juicyfresh&column=9&margin-h=15&no-frame=true&no-bg=true" alt="mohamedmedhat" />
+  </a>
+</p>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
